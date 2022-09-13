@@ -1,6 +1,15 @@
 # monitoring-php
 Simple CRUD for my daily work - Basic Learning PHP MySQL
 
+DARKMODE USER PAGE
+![Screenshot 2022-09-13 101048](https://user-images.githubusercontent.com/87930640/189799223-53ffe028-9df6-42e1-ae02-34f399d56f18.png)
+
+LIGHTMODE USER PAGE
+![Screenshot 2022-09-13 101325](https://user-images.githubusercontent.com/87930640/189799554-6fd44461-e78c-4861-b604-ff05424bae65.png)
+
+DATA COMPARISON USING CHART JS
+![Screenshot 2022-09-13 101652](https://user-images.githubusercontent.com/87930640/189799807-258d6319-1afa-46dd-946b-626ca7cdad4e.png)
+
+DASHBOARD
 ![Screenshot 2022-08-23 190428](https://user-images.githubusercontent.com/87930640/186153553-44282930-216e-48a3-8391-1109be6e8a85.png)
 
-![Screenshot 2022-08-23 190625](https://user-images.githubusercontent.com/87930640/186153935-feb1a8cc-b5f4-4502-9cd0-3c77cd8ba635.png)
