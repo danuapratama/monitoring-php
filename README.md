@@ -2,7 +2,7 @@
 Simple CRUD for my daily work - Learning PHPnative MySQL
 
 <div align="center">
-<a href="url"><img src="https://user-images.githubusercontent.com/87930640/189801940-1d7afc48-925e-4c4b-9328-2a8f5345f160.png" align="center" height="200" width="400"></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/87930640/189801940-1d7afc48-925e-4c4b-9328-2a8f5345f160.png" align="center" height="10%" width="30%"></a>
 </div>
 
 RESOURCES :
